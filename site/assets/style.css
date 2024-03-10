@@ -1,0 +1,219 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color: rgb(39, 39, 39);
+}
+
+
+
+
+
+
+.email{
+    font-display:none;
+    font-style: none;
+    font-size: 20px;
+    color:aliceblue;
+    font-family: sans-serif;
+    padding: 0;
+    text-align:center;
+   margin-top:  30px; 
+   align-items: center;
+   margin-right: 20px;
+   
+    
+}
+.button2 {
+   width: 40px;
+   height:  40px;
+   padding-top: 10px;
+    text-align:center;
+    align-items: center;
+    margin-right: 20px;
+    padding-left: 147px;
+    
+}
+.email input{
+    margin-right: 200px;
+    width: 20px;
+    border-radius: 5px;
+    width: 100px;
+    background:transparent;
+    color: aliceblue;
+    border-color: rgb(20, 242, 109);
+    align-items: center;
+     margin-right: 20px;    
+      }
+
+.navb a {
+font-family: sans-serif;
+font-display: none;
+font-style: none;
+color: rgb(98, 255, 0);
+margin-top: 10px;
+background-color: rgb(33, 33, 33);
+padding-left: 25px;
+padding-top: 10px;
+padding-bottom: 13px;
+text-decoration: none;
+list-style: none; 
+float:left;
+font-size:16px;
+text-align: right;
+padding-right: 22px;
+
+
+}
+
+
+.navb {
+
+  background-color: rgb(51, 53, 56);
+  font-family: sans-serif;
+  border: none;
+  height: 50px;
+  width: 375px;
+
+  
+  
+}
+
+.video1{margin-top:20px; display: center;}
+.video1 iframe{width: 200px;}
+
+.presentate {
+  color: aliceblue; 
+  margin-top: 100px;
+  text-align: center;
+  font-size: 15px;
+  
+}
+.presentate a{
+  background: transparent;
+  color: aliceblue;
+  border-color: aliceblue;
+  border-radius: 5px;
+  border-style: ridge;
+  size: 50px;
+  background-size: 60px;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  
+
+}
+.sec2 img{width: 100px; height: 100px; float:left; margin-right: 34px;}
+.sec2 p{padding-top:100px; padding-right: 260px;
+font-size: 20px;}
+.sec2 p{font-size: 20px; padding-right:260px;}
+.details p{font-size: 14px; text-align: left; margin-bottom: 400px; padding-right: 150px;}
+.message p {margin-left: 200px;  margin-bottom: 20px;}
+@media only screen and (min-width:1000px) {
+  .navb a {
+    font-family: sans-serif;
+    font-display: none;
+    font-style: none;
+    color: rgb(98, 255, 0);
+    margin-top: 10px;
+    background-color: rgb(33, 33, 33);
+    padding-left: 25px;
+    padding-top: 1px;
+    padding-bottom: 16px;
+    text-decoration: none;
+    list-style: none; 
+    float:left;
+    font-size:15px;
+    text-align: right;
+    padding-right: 34px;
+    
+    
+    }
+  .sec2 img{width: 400px; height: 300px; float:left; margin-right: 34px;}
+   .sec2 p{padding-top:100px; padding-right: 260px;
+         font-size: 20px;}
+  .sec2 p{font-size: 40px; padding-right:1000px;}
+  .details p{font-size: 25px; text-align: left; margin-bottom: 300px; padding-right: 1200px;}
+  .message p {margin-right: 20px;  margin-bottom: 20px;}
+    
+    .navb {
+    
+      background-color: rgb(51, 53, 56);
+      font-family: sans-serif;
+      border: none;
+      height: 50px;
+      width: 1355px;
+    
+      
+      
+    }
+    .video1{ display: center;
+
+    }
+    .video1 iframe{
+      width: 650px;
+      height: 200;
+      display: center; 
+      margin-bottom: 900px;
+ 
+    }
+
+   .email{
+      font-display:none;
+      font-style: none;
+      font-size: 40px;
+      color:aliceblue;
+      font-family: sans-serif;
+      padding: 0;
+      text-align:center;
+     margin-top:  0; 
+     align-items: center;
+     margin-right: 20px;
+     margin-bottom: 90px ;
+     
+      
+  }
+  .button2 {
+     width: 40px;
+     height:  40px;
+     padding-top: 20px;
+      text-align:center;
+      align-items: center;
+      margin-right: px;
+      padding-left: 590px;
+      
+  }
+  .email input{
+      margin-right: 100px;
+      
+      border-radius: 5px;
+      width: 200px;
+      padding-left: 0;
+      background:transparent;
+      color: aliceblue;
+      border-color: rgb(20, 242, 109);
+      align-items: center;
+       margin-right: 20px;   
+      height: 90; 
+      font-size: 30px;
+        }
+       .presentate {
+          color: aliceblue; 
+          margin-top: 100px;
+          text-align: center;
+          font-size: 60px;
+          
+        }
+        .presentate a{
+          background: transparent;
+          color: aliceblue;
+          border-color: aliceblue;
+          border-radius: 5px;
+          border-style: ridge;
+          size: 50px;
+          background-size: 90px;
+          font-size: 50px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          text-decoration: none;}
+}
